@@ -1,8 +1,6 @@
 # AI Security & Face Recognition System
 
 A high-performance surveillance solution that integrates **real-time motion detection**, **deep-learning-based face recognition**, and **automated security logging**. This system is designed to monitor a video feed (webcam or RTSP) and autonomously identify individuals or capture alerts for strangers.
-<img width="1092" height="772" alt="ENROLLMENT" src="https://github.com/user-attachments/assets/48e3c652-0fd1-471b-a0db-7389b87fada9" />
-
 
 
 ## System Overview
@@ -10,6 +8,8 @@ A high-performance surveillance solution that integrates **real-time motion dete
 The project consists of two core applications:
 * **The Recognition Engine (`main.py`)**: A multi-threaded monitoring system that handles live analysis and data logging.
 * **The Enrollment Portal (`enrollment.py`)**: A modern GUI for onboarding new users and managing biometric data.
+
+<img width="1092" height="772" alt="ENROLLMENT" src="https://github.com/user-attachments/assets/48e3c652-0fd1-471b-a0db-7389b87fada9" />
 
 ## Architectural Decisions
 
