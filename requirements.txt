@@ -6,3 +6,8 @@ numpy
 customtkinter
 Pillow
 python-dotenv
+
+
+For easier installation:
+
+pip install -r requirements.txt
